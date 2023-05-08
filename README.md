@@ -28,7 +28,7 @@
     <br />
     <br />
     <a href="https://github.com/CrazyH2/Hacklet/issues/new?assignees=cph101,crazyh2&labels=&template=bug_report.md&title=🪲+Bug%3A+"><img height="35px" src="https://github.com/CrazyH2/Hacklet/blob/main/images/reportBug.svg?raw=true&height=50px"></a>
-    <a href="https://discord.gg/Td44dJqqcT"><img height="35px" src="https://github.com/Blooket-Cheats/Blooket-Hacks/blob/main/images/supportDiscord.svg?raw=true&height=50px"></a>
+    <a href="https://discord.gg/Td44dJqqcT"><img height="35px" src="https://github.com/Blooket-Cheats/Blooket-Hacks/tree/main/images/supportDiscord.svg?raw=true&height=50px"></a>
   </p>
 </div>
 <br /><br />
