@@ -5,6 +5,7 @@
 // @urls         ["https://play.blooket.com/", "https://play.blooket.com/*"]
 // -- Hacklet -- 
 
+window.addEventListener('load', function () {
 if (console_msg("Add rewards")) {
 if (0 == document.location.pathname.indexOf("/play")) {
   var obj = Object.values(document.querySelector("#app > div > div"))[1].children[1]._owner.stateNode.state;
@@ -47,6 +48,7 @@ if (0 == document.location.pathname.indexOf("/play")) {
   setTimeout(alert('You are being redirected to the correct page, once you are there, re-run this script'), window.location = 'https://play.blooket.com/play', 1000)
 }
 }
+});
 
 // Console Message Code
 function console_msg(file, state) {
