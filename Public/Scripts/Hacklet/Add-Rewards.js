@@ -2,7 +2,7 @@
 // @name         Add Rewards
 // @version      1.0
 // @author       Hacklet
-// @urls         ["https://www.blooket.com/play"]
+// @urls         ["https://play.blooket.com/", "https://play.blooket.com/*"]
 // -- Hacklet -- 
 
 if (console_msg("Add rewards")) {
