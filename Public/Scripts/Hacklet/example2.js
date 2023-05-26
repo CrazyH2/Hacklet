@@ -1,5 +1,5 @@
 // -- Hacklet --
-// @name         Get All Blooks
+// @name         Example 2
 // @version      1.2
 // @author       Hacklet
 // @urls         ["https://www.blooket.com", "https://play.blooket.com/*"]
