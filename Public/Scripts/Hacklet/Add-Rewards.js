@@ -1,4 +1,9 @@
-// Blooket-Hacks  -  @ 2022 CrazyH & cph101
+// -- Hacklet --
+// @name         Add Rewards
+// @version      1.0
+// @author       Hacklet
+// @urls         ["https://www.blooket.com/play"]
+// -- Hacklet -- 
 
 if (console_msg("Add rewards")) {
 if (0 == document.location.pathname.indexOf("/play")) {
